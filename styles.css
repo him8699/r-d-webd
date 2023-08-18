@@ -1,0 +1,38 @@
+.container{
+    display: flex;
+    height: 4rem;
+    padding-top: 0.7rem;
+}
+.container1{
+    display: inline-flex;
+    gap: 7rem;
+    justify-content: center;
+    font-size: x-large;
+    background: rgb(41, 37, 37);
+    color: rgb(98, 236, 236);
+    height: 4rem;
+    width: 60rem;
+}
+.container2{
+    display: inline-flex;
+    justify-content: center;
+    font-size: x-large;
+    height: 4rem;
+    background: #a8b899;
+    width: 35rem;
+}
+.c1{
+    padding: 20px;
+}
+.c1:hover{
+    background: #060505;
+}
+.c2{
+    padding: 20px;
+}
+.c2:hover{
+    background: #e8e2e2;
+}
+body{
+    background-image: url('3357683.jpg');
+}
