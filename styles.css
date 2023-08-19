@@ -37,6 +37,7 @@ body{
     background-image: url('blurry-gradient-haikei (1).svg');
     background-repeat: no-repeat;
     background-size: cover;
+    height: 100rem;
 }
 .p1{
     padding-top: 2rem;
@@ -52,6 +53,7 @@ body{
     background-size: contain;
     background-position-x: left;
     padding: 0px;
+    opacity: 0.9;
 }
 .p3{
     display: inline-flex;
@@ -107,8 +109,8 @@ img.background {
    top: 0px;
    z-index: -1;
    width: 90rem;
-   height: 60rem;
-   opacity: 0.8;
+   height: 100rem;
+   opacity: 0.4;
    }
 .glitch-wrapper {
     width: 100%;
